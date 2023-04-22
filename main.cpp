@@ -226,7 +226,7 @@ void asciiart_normal(){
             cout<<"|_   _| ";
         if (input[i] == 'U' || input[i] == 'u')
             cout<<"| | | | ";
-         if (input[i] == 'V' || input[i] == 'v')
+        if (input[i] == 'V' || input[i] == 'v')
             cout<<"| | | | ";
         if (input[i] == 'W' || input[i] == 'w')
             cout<<"| |  | | ";
@@ -339,7 +339,7 @@ void asciiart_normal(){
             cout<<"| |__   ";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<"| |_    ";
-         if (input[i] == 'G' || input[i] == 'g')
+        if (input[i] == 'G' || input[i] == 'g')
             cout<<"| |  \\/ ";
         if (input[i] == 'H' || input[i] == 'h')
             cout<<"| |_| | ";
@@ -363,7 +363,7 @@ void asciiart_normal(){
             cout<<"| | | | ";
         if (input[i] == 'R' || input[i] == 'r')
             cout<<"| |_/ / ";
-         if (input[i] == 'S' || input[i] == 's')
+        if (input[i] == 'S' || input[i] == 's')
             cout<<"\\ `--.  ";
         if (input[i] == 'T' || input[i] == 't')
             cout<<"  | |   ";
@@ -379,7 +379,7 @@ void asciiart_normal(){
             cout<<" \\ V /  ";
         if (input[i] == 'Z' || input[i]== 'z')
             cout<<"   / /  ";
-         if (input[i] == ' ')
+        if (input[i] == ' ')
             cout<<"  ";
         if (input[i] == '`')
             cout<<" \\| ";
