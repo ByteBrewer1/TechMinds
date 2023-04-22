@@ -33,7 +33,7 @@ typedef vector<pl> vpl;
 typedef vector<vi> vvi;
 typedef vector<vl> vvl;
 
-void asciiart(){
+void asciiart_normal(){
     // take string as a input
     string s;
     getline(cin, s);
@@ -44,6 +44,6 @@ void asciiart(){
 int main(){
     // Main Program
     while(1){
-        asciiart();
+        asciiart_normal();
     }
 }
