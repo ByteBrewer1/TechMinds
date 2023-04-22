@@ -37,6 +37,7 @@ void asciiart(){
     // take string as a input
     string s;
     getline(cin, s);
+    //loop will print first layer
     
 }
 
