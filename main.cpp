@@ -36,8 +36,21 @@ typedef vector<vl> vvl;
 void asciiart_normal(){
     // take string as a input
     string s;
+    cout<<"Enter text:";
     getline(cin, s);
     //loop will print first layer
+    for (int i=0; i < input.size(); i++)
+    {
+        if (input[i] == 'A' || input[i]== 'a')
+            cout<<"/ /_\\ \\ ";
+        if (input[i] == 'B' || input[i] == 'b')
+            cout<<"| |_/ / ";
+        if (input[i] == 'C' || input[i] == 'c')
+            cout<<"| /  \\/ ";
+        if (input[i] == 'D' || input[i] == 'd')
+            cout<<"| | | | ";
+        if (input[i] == 'E' || input[i] == 'e')
+            cout<<"| |__   ";
     
 }
 
