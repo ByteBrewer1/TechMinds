@@ -34,7 +34,7 @@ typedef vector<vi> vvi;
 typedef vector<vl> vvl;
 
 void asciiart(){
-
+    // take string as a input
 }
 
 
