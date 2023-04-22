@@ -36,7 +36,7 @@ typedef vector<vl> vvl;
 void asciiart_normal(){
     // take string as a input
     string input;
-    cout<<"Enter text:";
+    cout<<"Enter text: ";
     getline(cin, input);
     //loop will print first layer
     for (int i=0; i < input.size(); i++)
@@ -57,7 +57,8 @@ void asciiart_normal(){
 
 
 void asciiart_italic(){
-
+    string input;
+    cout << "Enter text: ";
 }
 
 void asciiart_bold(){
