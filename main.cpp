@@ -35,9 +35,10 @@ typedef vector<vl> vvl;
 
 void asciiart(){
     // take string as a input
+    string s;
+    getline(cin, s);
+    
 }
-
-
 
 int main(){
     // Main Program
