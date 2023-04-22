@@ -109,6 +109,18 @@ void asciiart_normal(){
             cout<<"   ___  ";
         if (input[i] == '5')
             cout<<" _____  ";
+        if (input[i] == '6')
+            cout<<"  ____  ";
+        if (input[i] == '7')
+            cout<<" ______ ";
+        if(input[i] == '.')
+            cout<<"    ";
+        if (input[i] == '8')
+            cout<<" _____  ";
+        if (input[i] == '9')
+            cout<<" _____  ";
+        if (input[i] == '0')
+            cout<<" _____  ";
 
 }
 }
