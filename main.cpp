@@ -42,17 +42,18 @@ void asciiart_normal(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<"/ /_\\ \\ ";
+            cout<<"  ___   ";
         if (input[i] == 'B' || input[i] == 'b')
-            cout<<"| |_/ / ";
+            cout<<" _____  ";
         if (input[i] == 'C' || input[i] == 'c')
-            cout<<"| /  \\/ ";
+            cout<<" _____  ";
         if (input[i] == 'D' || input[i] == 'd')
-            cout<<"| | | | ";
+            cout<<" _____  ";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<"| |__   ";
+            cout<<" _____  ";
     
-    }
+
+}
 }
 
 
