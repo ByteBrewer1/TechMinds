@@ -2,6 +2,7 @@
 * PROGRAM :: ASCII ART GENERATOR
 * DATE    :: 22/04/2023
 * AUTHOR  :: RAHUL MISTRY, MELITA CASTELINO, DEVANSHI DAVE
+* ID NO   :: 22CS042, 22CS013, 22CS018
 */
 
 //! Header File
@@ -31,3 +32,16 @@ typedef vector<pii> vpii;
 typedef vector<pl> vpl;
 typedef vector<vi> vvi;
 typedef vector<vl> vvl;
+
+void asciiart(){
+
+}
+
+
+
+int main(){
+    // Main Program
+    while(1){
+        asciiart();
+    }
+}
