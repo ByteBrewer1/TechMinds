@@ -41,8 +41,16 @@ void asciiart_normal(){
     
 }
 
+void asciiart_italic(){
+
+}
+
+void asciiart_bold(){
+
+}
+
+//! Main Program
 int main(){
-    // Main Program
     while(1){
         asciiart_normal();
     }
