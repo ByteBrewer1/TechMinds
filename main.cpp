@@ -61,6 +61,16 @@ void asciiart_normal(){
             cout<<" _____  ";
         if (input[i] == 'J' || input[i] == 'j')
             cout<<"   ___  ";
+         if (input[i] == 'K' || input[i] == 'k')
+            cout<<" _   __ ";
+        if (input[i] == 'L' || input[i] == 'l')
+            cout<<" _      ";
+        if (input[i] == 'M' || input[i] == 'm')
+            cout<<" __  __  ";
+        if (input[i] == 'N' || input[i] == 'n')
+            cout<<" _   _  ";
+        if (input[i] == 'O' || input[i] == 'o')
+            cout<<" _____  ";
 
 }
 }
