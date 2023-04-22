@@ -264,7 +264,66 @@ void asciiart_normal(){
             cout<<"|  _  | ";
         if (input[i] == '0')
             cout<<"|  _  | ";
-        
+        if (input[i] == '!')
+            cout<<"| | ";
+        if (input[i] == '@')
+            cout<<"  / __ \\  ";
+        if (input[i] == '#')
+            cout<<" _| || |_  ";
+        if (input[i] == '$')
+            cout<<" | |  ";
+        if (input[i] == '%')
+            cout<<"(_) / / ";
+        if (input[i] == '^')
+            cout<<"|/\\| ";
+        if (input[i] == '&')
+            cout<<"  ___    ";
+        if (input[i] == '*')
+            cout<<" /\\| |/\\  ";
+        if (input[i] == '(')
+            cout<<" / / ";
+        if (input[i] == ')')
+            cout<<"\\ \\  ";
+        if (input[i] == '-')
+            cout<<"         ";
+        if (input[i] == '_')
+            cout<<"         ";
+        if (input[i] == '=')
+            cout<<" ______  ";
+        if (input[i] == '+')
+            cout<<"   _    ";
+        if (input[i] == '[')
+            cout<<"|  _| ";
+        if (input[i] == '{')
+            cout<<"  / / ";
+        if (input[i]== ']')
+            cout<<"|_  | ";
+        if (input[i] == '}')
+            cout<<"\\ \\   ";
+        if (input[i] == '|')
+            cout<<"| | ";
+        if (input[i] == '\\')
+            cout<<"\\ \\     ";
+        if (input[i] == ';')
+            cout<<"(_) ";
+        if (input[i] == ':')
+            cout<<" _  ";
+        if (input[i] == '\'')
+            cout<<"( ) ";
+        if (input[i] == '"')
+            cout<<"( | ) ";
+        if (input[i] == '<')
+            cout<<"  / / ";
+        if (input[i] == ',')
+            cout<<"    ";
+        if (input[i] == '>')
+            cout<<"\\ \\   ";
+        if (input[i] == '/')
+            cout<<"    / / ";
+        if (input[i] == '?')
+            cout<<"|__ \\  ";
+    }
+    cout<<endl;
 
 }
 
