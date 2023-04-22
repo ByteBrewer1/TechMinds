@@ -121,8 +121,83 @@ void asciiart_normal(){
             cout<<" _____  ";
         if (input[i] == '0')
             cout<<" _____  ";
+            if (input[i] == '!')
+            cout<<" _  ";
+        if (input[i] == '@')
+            cout<<"   ____   ";
+        if (input[i] == '#')
+            cout<<"   _  _    ";
+        if (input[i] == '$')
+            cout<<"  _   ";
+        if (input[i] == '%')
+            cout<<" _   __ ";
+        if (input[i] == '^')
+            cout<<" /\\  ";
+        if (input[i] == '&')
+            cout<<"         ";
+        if (input[i] == '*')
+            cout<<"    _     ";
+        if (input[i] == '(')
+            cout<<"  __ ";
+        if (input[i] == ')')
+            cout<<"__   ";
+        if (input[i] == '-')
+            cout<<"         ";
+        if (input[i] == '_')
+            cout<<"         ";
+        if (input[i] == '=')
+            cout<<"         ";
+        if (input[i] == '+')
+            cout<<"        ";
+        if (input[i] == '[')
+            cout<<" ___  ";
+        if (input[i] == '{')
+            cout<<"   __ ";
+        if (input[i]== ']')
+            cout<<" ___  ";
+        if (input[i] == '}')
+            cout<<"__    ";
+        if (input[i] == '|')
+            cout<<" _  ";
+        if (input[i] == '\\')
+            cout<<"__      ";
+        if (input[i] == ';')
+            cout<<" _  ";
+        if (input[i] == ':')
+            cout<<"    ";
+        if (input[i] == '\'')
+            cout<<" _  ";
+        if (input[i] == '"')
+            cout<<" _ _  ";
+        if (input[i] == '<')
+            cout<<"   __ ";
+        if (input[i] == ',')
+            cout<<"    ";
+        if (input[i] == '>')
+            cout<<"__    ";
+        if (input[i] == '/')
+            cout<<"     __ ";
+        if (input[i] == '?')
+            cout<<" ___   ";
+    }
+    cout<<endl;
+    //loop will print second layer
+    for (int i=0; i < input.size(); i++)
+    {
+        if (input[i] == 'A' || input[i]== 'a')
+            cout<<" / _ \\  ";
+        if (input[i] == 'B' || input[i] == 'b')
+            cout<<"| ___ \\ ";
+        if (input[i] == 'C' || input[i] == 'c')
+            cout<<"/  __ \\ ";
+        if (input[i] == 'D' || input[i] == 'd')
+            cout<<"|  _  \\ ";
+        if (input[i] == 'E' || input[i] == 'e')
+            cout<<"|  ___| ";
+        if (input[i] == 'F' || input[i] == 'f')
+            cout<<"|  ___| ";
+        
 
-}
 }
 
 
