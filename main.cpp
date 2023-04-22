@@ -53,6 +53,8 @@ void asciiart_normal(){
             cout<<"| |__   ";
     
 }
+}
+
 
 void asciiart_italic(){
 
