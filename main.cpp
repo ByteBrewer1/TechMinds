@@ -52,7 +52,7 @@ void asciiart_normal(){
         if (input[i] == 'E' || input[i] == 'e')
             cout<<"| |__   ";
     
-}
+    }
 }
 
 
