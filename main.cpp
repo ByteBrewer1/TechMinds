@@ -466,7 +466,7 @@ void asciiart_normal(){
         if (input[i] == '?')
             cout<<"   ) | ";
     }
-    cout<<endl;
+    cout << endl;
     //loop will print fourth layer
     for (int i=0; i < input.size(); i++)
     {
@@ -482,6 +482,32 @@ void asciiart_normal(){
             cout<<"|  __|  ";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<"|  _|   ";
+         if (input[i] == 'G' || input[i] == 'g')
+            cout<<"| | __  ";
+        if (input[i] == 'H' || input[i] == 'h')
+            cout<<"|  _  | ";
+        if (input[i] == 'I' || input[i] == 'i')
+            cout<<"  | |   ";
+        if (input[i] == 'J' || input[i] == 'j')
+            cout<<"    | | ";
+        if (input[i] == 'K' || input[i] == 'k')
+            cout<<"|    \\  ";
+        if (input[i] == 'L' || input[i] == 'l')
+            cout<<"| |     ";
+         if (input[i] == 'M' || input[i] == 'm')
+            cout<<"| |\\/| | ";
+        if (input[i] == 'N' || input[i] == 'n')
+            cout<<"| . ` | ";
+        if (input[i] == 'O' || input[i] == 'o')
+            cout<<"| | | | ";
+        if (input[i] == 'P' || input[i] == 'p')
+            cout<<"|  __/  ";
+        if (input[i] == 'Q' || input[i] == 'q')
+            cout<<"| | | | ";
+        if (input[i] == 'R' || input[i] == 'r')
+            cout<<"|    /  ";
+        if (input[i] == 'S' || input[i] == 's')
+            cout<<" `--. \\ ";
 
 }
 
