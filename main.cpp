@@ -753,6 +753,21 @@ void asciiart_normal(){
             cout<<" |_|   ";
     }
     cout<<endl;
+    //loop will print sixth layer
+    for (int i=0; i < input.size(); i++)
+    {
+        if (input[i] == 'A' || input[i]== 'a')
+            cout<<"\\_| |_/ ";
+        if (input[i] == 'B' || input[i] == 'b')
+            cout<<"\\____/  ";
+        if (input[i] == 'C' || input[i] == 'c')
+            cout<<" \\____/ ";
+        if (input[i] == 'D' || input[i] == 'd')
+            cout<<"|___/   ";
+        if (input[i] == 'E' || input[i] == 'e')
+            cout<<"\\____/  ";
+        if (input[i] == 'F' || input[i] == 'f')
+            cout<<"\\_|     ";
 
 }
 
