@@ -651,6 +651,20 @@ void asciiart_normal(){
             cout<<"| |\\ \\  ";
         if (input[i] == 'S' || input[i] == 's')
             cout<<"/\\__/ / ";
+        if (input[i] == 'T' || input[i] == 't')
+            cout<<"  | |   ";
+        if (input[i] == 'U' || input[i] == 'u')
+            cout<<"| |_| | ";
+        if (input[i] == 'V' || input[i] == 'v')
+            cout<<"\\ \\_/ / ";
+        if (input[i] == 'W' || input[i] == 'w')
+            cout<<"\\  /\\  / ";
+        if (input[i] == 'X' || input[i] == 'x')
+            cout<<"/ / \\ \\ ";
+        if (input[i] == 'Y' || input[i] == 'y')
+            cout<<"  | |   ";
+        if (input[i] == 'Z' || input[i]== 'z')
+            cout<<"./ /___ ";
 
 }
 
