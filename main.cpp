@@ -1543,7 +1543,14 @@ void asciiart_bold(){
     cout << endl;
     //* Fifth Layer Ends
     
-    
+    //! Six Layer Starts
+    for (int i=0; i < input.size(); i++)
+    {
+        if (input[i] == '$')
+            cout<<"   ▀▀▀   ";
+    }
+    cout << endl;
+    //* Six Layer Ends
 }
 
 //! Main Program Starts
