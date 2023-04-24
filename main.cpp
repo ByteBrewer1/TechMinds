@@ -1387,7 +1387,7 @@ void asciiart_bold(){
         if (input[i] == '(')
             cout<<" ██  ";
         if (input[i] == ')')
-            cout<<" | | ";
+            cout<<"  ██ ";
         if (input[i] == '-')
             cout<<"|______| ";
         if (input[i] == '_')
