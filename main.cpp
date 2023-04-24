@@ -1496,7 +1496,7 @@ void asciiart_bold(){
         if (input[i] == '0')
             cout<<"  ██████  ";
         if (input[i] == '!')
-            cout<<"|_| ";
+            cout<<" ██ ";
         if (input[i] == '@')
             cout<<" \\ \\__,_| ";
         if (input[i] == '#')
