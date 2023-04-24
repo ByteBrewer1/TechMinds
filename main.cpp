@@ -1026,11 +1026,11 @@ void asciiart_bold(){
         if (input[i] == ',')
             cout<<"    ";
         if (input[i] == '>')
-            cout<<"__    ";
+            cout<<" ██   ";
         if (input[i] == '/')
-            cout<<"     __ ";
+            cout<<"     ██ ";
         if (input[i] == '?')
-            cout<<" ___   ";
+            cout<<" ██████  ";
     }
     cout<<endl;
 }
