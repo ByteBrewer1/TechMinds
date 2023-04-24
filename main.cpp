@@ -992,7 +992,7 @@ void asciiart_bold(){
         if (input[i] == '#')
             cout<<"  ██  ██  ";
         if (input[i] == '$')
-            cout<<"  _   ";
+            cout<<" ▄▄███▄▄ ";
         if (input[i] == '%')
             cout<<" _   __ ";
         if (input[i] == '^')
