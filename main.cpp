@@ -1224,7 +1224,7 @@ void asciiart_bold(){
         if (input[i]== '2')
             cout<<"  █████  ";
         if (input[i]== '3')
-            cout<<"    / / ";
+            cout<<"  █████  ";
         if (input[i] == '4')
             cout<<" / /| | ";
         if (input[i] == '5')
