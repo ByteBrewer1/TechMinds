@@ -964,23 +964,19 @@ void asciiart_bold(){
         if (input[i] == 'Z' || input[i]== 'z')
             cout<<" ███████ ";
         if (input[i] == ' ')
-            cout<<"  ";
-        if (input[i] == '`')
-            cout<<" _  ";
-        if (input[i] == '~')
-            cout<<"      ";
+            cout<<"    ";
         if (input[i] == '1')
-            cout<<" __   ";
+            cout<<"  ██ ";
         if (input[i]== '2')
-            cout<<" _____  ";
+            cout<<" ██████  ";
         if (input[i]== '3')
-            cout<<" _____  ";
+            cout<<" ██████  ";
         if (input[i] == '4')
-            cout<<"   ___  ";
+            cout<<" ██   ██ ";
         if (input[i] == '5')
-            cout<<" _____  ";
+            cout<<" ███████ ";
         if (input[i] == '6')
-            cout<<"  ____  ";
+            cout<<"  ██████  ";
         if (input[i] == '7')
             cout<<" ______ ";
         if(input[i] == '.')
