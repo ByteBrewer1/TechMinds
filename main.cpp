@@ -1284,7 +1284,7 @@ void asciiart_bold(){
         if (input[i] == '/')
             cout<<"   ██   ";
         if (input[i] == '?')
-            cout<<"   ) | ";
+            cout<<"   ▄███  ";
     }
     cout << endl;
 }
