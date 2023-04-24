@@ -946,13 +946,13 @@ void asciiart_bold(){
         if (input[i] == 'Q' || input[i] == 'q')
             cout<<"  ██████  ";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<" _____  ";
+            cout<<" ██████  ";
         if (input[i] == 'S' || input[i] == 's')
-            cout<<" _____  ";
+            cout<<" ███████ ";
         if (input[i] == 'T' || input[i] == 't')
-            cout<<" _____  ";
+            cout<<" ████████ ";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<" _   _  ";
+            cout<<" ██    ██ ";
         if (input[i] == 'V' || input[i] == 'v')
             cout<<" _   _  ";
         if (input[i] == 'W' || input[i] == 'w')
