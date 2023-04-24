@@ -36,8 +36,10 @@ typedef vector<vl> vvl;
 void asciiart_normal(){
     // take string as a input
     string input;
+    cin.ignore(); // Add this line to consume the newline character
     cout<<"Enter text: ";
     getline(cin, input);
+
     //loop will print first layer
     for (int i=0; i < input.size(); i++)
     {
@@ -906,6 +908,7 @@ void asciiart_italic(){
 void asciiart_bold(){
     //! take string as a input
     string input;
+    cin.ignore(); // Add this line to consume the newline character
     cout<<"Enter text: ";
     getline(cin, input);
     //! First Layer Starts
@@ -964,7 +967,7 @@ void asciiart_bold(){
         if (input[i] == 'Z' || input[i]== 'z')
             cout<<" ███████ ";
         if (input[i] == ' ')
-            cout<<"    ";
+            cout<<"      ";
         if (input[i] == '1')
             cout<<"  ██ ";
         if (input[i]== '2')
@@ -1091,7 +1094,7 @@ void asciiart_bold(){
         if (input[i] == 'Z' || input[i]== 'z')
             cout<<"    ███  ";
         if (input[i] == ' ')
-            cout<<"     ";
+            cout<<"      ";
         if (input[i] == '1')
             cout<<" ███ ";
         if (input[i]== '2')
@@ -1557,10 +1560,37 @@ void asciiart_bold(){
 // AsciiArt Bold Function Ends
 
 //! Main Program Starts
-int main(){
-    while(1){
-        asciiart_bold();
+int main()
+{
+    cout << "\n\n";
+        string text = "ASCII Art Generator";
+    int width = 150; // replace with the width of your terminal
+    int spaces = (width - text.length()) / 2;
+    
+    for (int i = 0; i < spaces; i++) {
+        cout << " ";
     }
+        
+    cout << text << endl;
+
+    int type_text;
+    cout << "Choose Type(Normal / Bold): ";
+    cin >> type_text;
+    switch (type_text)
+    {
+    case 1:
+        asciiart_normal();
+        break;
+    case 2:
+        asciiart_bold();
+        break;
+    default:
+        cout << "Please Enter Correct Value....";
+        break;
+    }
+        cout << endl;
+
+    return 0;
 }
 
 //* Main Program Ends
