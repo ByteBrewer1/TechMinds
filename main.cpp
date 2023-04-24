@@ -1049,7 +1049,7 @@ void asciiart_bold(){
         if (input[i] == 'E' || input[i] == 'e')
             cout<<" ██      ";
         if (input[i] == 'F' || input[i] == 'f')
-            cout<<"|  ___| ";
+            cout<<" ██      ";
         if (input[i] == 'G' || input[i] == 'g')
             cout<<"|  __ \\ ";
         if (input[i] == 'H' || input[i] == 'h')
