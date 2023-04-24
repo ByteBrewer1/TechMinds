@@ -1004,23 +1004,15 @@ void asciiart_bold(){
         if (input[i] == '(')
             cout<<"  ██ ";
         if (input[i] == ')')
-            cout<<"__   ";
+            cout<<" ██  ";
         if (input[i] == '-')
-            cout<<"         ";
+            cout<<"       ";
         if (input[i] == '_')
             cout<<"         ";
-        if (input[i] == '=')
-            cout<<"         ";
-        if (input[i] == '+')
-            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ___  ";
-        if (input[i] == '{')
-            cout<<"   __ ";
+            cout<<" ███ ";
         if (input[i]== ']')
-            cout<<" ___  ";
-        if (input[i] == '}')
-            cout<<"__    ";
+            cout<<" ███ ";
         if (input[i] == '|')
             cout<<" _  ";
         if (input[i] == '\\')
