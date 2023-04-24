@@ -908,7 +908,7 @@ void asciiart_bold(){
     string input;
     cout<<"Enter text: ";
     getline(cin, input);
-    //loop will print first layer
+    //! First Layer Starts
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
@@ -1033,9 +1033,9 @@ void asciiart_bold(){
             cout<<" ██████  ";
     }
     cout<<endl;
-    //* First Layer Done
+    //* First Layer Ends
 
-    //! Second Layer Started
+    //! Second Layer Starts
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
@@ -1160,7 +1160,7 @@ void asciiart_bold(){
             cout<<"      ██ ";
     }
     cout<<endl;
-    //* Second Layer Done
+    //* Second Layer Ends
 
     //! Third Layer Starts
     for (int i=0; i < input.size(); i++)
@@ -1287,6 +1287,10 @@ void asciiart_bold(){
             cout<<"   ▄███  ";
     }
     cout << endl;
+    //* Third Layer Ends
+
+    //! Fourth Layer Starts
+    
 }
 
 //! Main Program
