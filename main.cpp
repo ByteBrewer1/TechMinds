@@ -1160,6 +1160,11 @@ void asciiart_bold(){
             cout<<"      ██ ";
     }
     cout<<endl;
+    //* Second Layer Done
+
+    //! Third Layer Starts
+    
+}
 
 //! Main Program
 int main(){
