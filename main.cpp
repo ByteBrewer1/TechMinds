@@ -1552,6 +1552,7 @@ void asciiart_bold(){
     cout << endl;
     //* Six Layer Ends
 }
+// AsciiArt Bold Function Ends
 
 //! Main Program Starts
 int main(){
