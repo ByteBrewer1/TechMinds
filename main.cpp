@@ -1200,7 +1200,7 @@ void asciiart_bold(){
         if (input[i] == 'Q' || input[i] == 'q')
             cout<<" ██    ██ ";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<"| |_/ / ";
+            cout<<" ██████  ";
         if (input[i] == 'S' || input[i] == 's')
             cout<<"\\ `--.  ";
         if (input[i] == 'T' || input[i] == 't')
