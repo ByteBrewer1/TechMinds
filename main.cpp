@@ -1290,7 +1290,6 @@ void asciiart_bold(){
     //* Third Layer Ends
 
     //! Fourth Layer Starts
-    
 }
 
 //! Main Program
