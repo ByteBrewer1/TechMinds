@@ -1436,7 +1436,7 @@ void asciiart_bold(){
         if (input[i] == 'H' || input[i] == 'h')
             cout<<" ██   ██ ";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" _| |_  ";
+            cout<<" ██ ";
         if (input[i] == 'J' || input[i] == 'j')
             cout<<"/\\__/ / ";
         if (input[i] == 'K' || input[i] == 'k')
