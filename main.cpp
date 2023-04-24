@@ -940,11 +940,11 @@ void asciiart_bold(){
         if (input[i] == 'N' || input[i] == 'n')
             cout<<" ███    ██ ";
         if (input[i] == 'O' || input[i] == 'o')
-            cout<<" _____  ";
+            cout<<"  ██████  ";
         if (input[i] == 'P' || input[i] == 'p')
-            cout<<" _____  ";
+            cout<<" ██████  ";
         if (input[i] == 'Q' || input[i] == 'q')
-            cout<<" _____  ";
+            cout<<"  ██████  ";
         if (input[i] == 'R' || input[i] == 'r')
             cout<<" _____  ";
         if (input[i] == 'S' || input[i] == 's')
