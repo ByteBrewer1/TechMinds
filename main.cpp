@@ -1206,7 +1206,7 @@ void asciiart_bold(){
         if (input[i] == 'T' || input[i] == 't')
             cout<<"    ██    ";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<"| | | | ";
+            cout<<" ██    ██ ";
         if (input[i] == 'V' || input[i] == 'v')
             cout<<"| | | | ";
         if (input[i] == 'W' || input[i] == 'w')
