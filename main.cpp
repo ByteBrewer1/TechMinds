@@ -924,21 +924,21 @@ void asciiart_bold(){
         if (input[i] == 'F' || input[i] == 'f')
             cout<<" ███████";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<" _____  ";
+            cout<<"  ██████  ";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<" _   _  ";
+            cout<<" ██   ██ ";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" _____  ";
+            cout<<" ██ ";
         if (input[i] == 'J' || input[i] == 'j')
-            cout<<"   ___  ";
+            cout<<"      ██ ";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<" _   __ ";
+            cout<<" ██   ██ ";
         if (input[i] == 'L' || input[i] == 'l')
-            cout<<" _      ";
+            cout<<" ██      ";
         if (input[i] == 'M' || input[i] == 'm')
-            cout<<" __  __  ";
+            cout<<" ███    ███ ";
         if (input[i] == 'N' || input[i] == 'n')
-            cout<<" _   _  ";
+            cout<<" ███    ██ ";
         if (input[i] == 'O' || input[i] == 'o')
             cout<<" _____  ";
         if (input[i] == 'P' || input[i] == 'p')
