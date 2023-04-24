@@ -926,7 +926,7 @@ void asciiart_bold(){
         if (input[i] == 'G' || input[i] == 'g')
             cout<<"  ██████  ";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<"  ██   ██ ";
+            cout<<" ██   ██ ";
         if (input[i] == 'I' || input[i] == 'i')
             cout<<" ██ ";
         if (input[i] == 'J' || input[i] == 'j')
@@ -1559,7 +1559,7 @@ void asciiart_bold(){
 //! Main Program Starts
 int main(){
     while(1){
-        asciiart_normal();
+        asciiart_bold();
     }
 }
 
