@@ -986,11 +986,11 @@ void asciiart_bold(){
         if (input[i] == '0')
             cout<<"  ██████  ";
             if (input[i] == '!')
-            cout<<" _  ";
+            cout<<" ██ ";
         if (input[i] == '@')
-            cout<<"   ____   ";
+            cout<<"  ██████  ";
         if (input[i] == '#')
-            cout<<"   _  _    ";
+            cout<<"  ██  ██  ";
         if (input[i] == '$')
             cout<<"  _   ";
         if (input[i] == '%')
