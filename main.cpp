@@ -1343,7 +1343,7 @@ void asciiart_bold(){
         if (input[i] == 'Y' || input[i] == 'y')
             cout<<"    ██    ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"  / /   ";
+            cout<<"  ███    ";
         if (input[i] == ' ')
             cout<<"  ";
         if (input[i] == '`')
