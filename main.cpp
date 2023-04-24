@@ -1480,7 +1480,7 @@ void asciiart_bold(){
         if (input[i]== '3')
             cout<<" ██████  ";
         if (input[i] == '4')
-            cout<<"\\___  | ";
+            cout<<"      ██ ";
         if (input[i] == '5')
             cout<<"/\\__/ / ";
         if (input[i] == '6')
@@ -1557,9 +1557,11 @@ void asciiart_bold(){
     cout << endl;
 }
 
-//! Main Program
+//! Main Program Starts
 int main(){
     while(1){
         asciiart_normal();
     }
 }
+
+//* Main Program Ends
