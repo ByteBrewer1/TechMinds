@@ -1212,7 +1212,7 @@ void asciiart_bold(){
         if (input[i] == 'W' || input[i] == 'w')
             cout<<" ██  █  ██ ";
         if (input[i] == 'X' || input[i] == 'x')
-            cout<<" \\ V /  ";
+            cout<<"   ███   ";
         if (input[i] == 'Y' || input[i] == 'y')
             cout<<" \\ V /  ";
         if (input[i] == 'Z' || input[i]== 'z')
