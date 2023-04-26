@@ -975,61 +975,61 @@ void asciiart_3D(){
         if (input[i] == '5')
             cout<<" /$$$$$$$ ";
         if (input[i] == '6')
-            cout<<"  ██████  ";
+            cout<<"  /$$$$$$ ";
         if (input[i] == '7')
-            cout<<" ███████ ";
+            cout<<" /$$$$$$$$";
         if (input[i] == '8')
-            cout<<"  █████  ";
+            cout<<"  /$$$$$$ ";
         if (input[i] == '9')
-            cout<<"  █████  ";
+            cout<<"  /$$$$$$ ";
         if (input[i] == '0')
-            cout<<"  ██████  ";
+            cout<<"  /$$$$$$ ";
             if (input[i] == '!')
-            cout<<" ██ ";
+            cout<<" /$$";
         if (input[i] == '@')
-            cout<<"  ██████  ";
+            cout<<"     /$$$$$$    ";
         if (input[i] == '#')
-            cout<<"  ██  ██  ";
+            cout<<"   /$$ /$$  ";
         if (input[i] == '$')
-            cout<<" ▄▄███▄▄ ";
+            cout<<"    /$$   ";
         if (input[i] == '%')
-            cout<<" ██  ██ ";
+            cout<<" /$$   /$$";
         if (input[i] == '^')
-            cout<<"  ███  ";
+            cout<<"    /$   ";
         if (input[i] == '&')
-            cout<<"    ██    ";
+            cout<<"  /$$$    ";
         if (input[i] == '*')
-            cout<<"       ";
-        if (input[i] == '(')
-            cout<<"  ██ ";
-        if (input[i] == ')')
-            cout<<" ██  ";
-        if (input[i] == '-')
-            cout<<"       ";
-        if (input[i] == '_')
             cout<<"         ";
+        if (input[i] == '(')
+            cout<<"   /$$$";
+        if (input[i] == ')')
+            cout<<" /$$$  ";
+        if (input[i] == '-')
+            cout<<"        ";
+        if (input[i] == '_')
+            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ███ ";
+            cout<<" /$$$$";
         if (input[i]== ']')
-            cout<<" ███ ";
+            cout<<" /$$$$";
         if (input[i] == '|')
-            cout<<" ██ ";
+            cout<<" /$$";
         if (input[i] == ';')
             cout<<"    ";
         if (input[i] == ':')
             cout<<"    ";
         if (input[i] == '\'')
-            cout<<"     ██ ";
+            cout<<" /$$      ";
         if (input[i] == '<')
-            cout<<"   ██ ";
+            cout<<"    /$$";
         if (input[i] == ',')
             cout<<"    ";
         if (input[i] == '>')
-            cout<<" ██   ";
+            cout<<" /$$   ";
         if (input[i] == '/')
-            cout<<"     ██ ";
+            cout<<"       /$$";
         if (input[i] == '?')
-            cout<<" ██████  ";
+            cout<<"  /$$$$ ";
     }
     cout<<endl;
     //* First Layer Ends
