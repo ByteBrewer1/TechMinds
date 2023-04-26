@@ -1038,125 +1038,125 @@ void asciiart_3D(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<" ██   ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == 'B' || input[i] == 'b')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'C' || input[i] == 'c')
-            cout<<" ██      ";
+            cout<<" /$$__  $$";
         if (input[i] == 'D' || input[i] == 'd')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<" ██      ";
+            cout<<" /$$$$$$$$";
         if (input[i] == 'F' || input[i] == 'f')
-            cout<<" ██      ";
+            cout<<" /$$$$$$$$";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<" ██       ";
+            cout<<" /$$__  $$";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<" ██   ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" ██ ";
+            cout<<"|_  $$_/";
         if (input[i] == 'J' || input[i] == 'j')
-            cout<<"      ██ ";
+            cout<<"   |__  $$";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<" ██  ██  ";
+            cout<<"| $$  /$$/";
         if (input[i] == 'L' || input[i] == 'l')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'M' || input[i] == 'm')
-            cout<<" ████  ████ ";
+            cout<<"| $$$    /$$$";
         if (input[i] == 'N' || input[i] == 'n')
-            cout<<" ████   ██ ";
+            cout<<"| $$$ | $$";
         if (input[i] == 'O' || input[i] == 'o')
-            cout<<" ██    ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == 'P' || input[i] == 'p')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'Q' || input[i] == 'q')
-            cout<<" ██    ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'S' || input[i] == 's')
-            cout<<" ██      ";
+            cout<<" /$$__  $$";
         if (input[i] == 'T' || input[i] == 't')
-            cout<<"    ██    ";
+            cout<<"|__  $$__/";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<" ██    ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'V' || input[i] == 'v')
-            cout<<" ██    ██ ";
+            cout<<"| $$   | $$";
         if (input[i] == 'W' || input[i] == 'w')
-            cout<<" ██     ██ ";
+            cout<<"| $$  /$ | $$";
         if (input[i] == 'X' || input[i] == 'x')
-            cout<<"  ██ ██  ";
+            cout<<"| $$  / $$";
         if (input[i] == 'Y' || input[i] == 'y')
-            cout<<"  ██  ██  ";
+            cout<<"|  $$   /$$/";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"    ███  ";
+            cout<<"|_____ $$ ";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
-            cout<<" ███ ";
+            cout<<" /$$$$  ";
         if (input[i]== '2')
-            cout<<"      ██ ";
+            cout<<" /$$__  $$";
         if (input[i]== '3')
-            cout<<"      ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == '4')
-            cout<<" ██   ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == '5')
-            cout<<" ██      ";
+            cout<<"| $$____/ ";
         if (input[i] == '6')
-            cout<<" ██       ";
+            cout<<" /$$__  $$";
         if (input[i] == '7')
-            cout<<"      ██ ";
+            cout<<"|_____ $$/";
         if(input[i] == '.')
             cout<<"    ";
         if (input[i] == '8')
-            cout<<" ██   ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == '9')
-            cout<<" ██   ██ ";
+            cout<<" /$$__  $$";
         if (input[i] == '0')
-            cout<<" ██  ████ ";
+            cout<<" /$$$_  $$";
         if (input[i] == '!')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == '@')
-            cout<<" ██    ██ ";
+            cout<<"   /$$$__  $$$  ";
         if (input[i] == '#')
-            cout<<" ████████ ";
+            cout<<"  / $$/ $$  ";
         if (input[i] == '$')
-            cout<<" ██      ";
+            cout<<"  /$$$$$$ ";
         if (input[i] == '%')
-            cout<<"    ██  ";
+            cout<<"|__/  /$$/";
         if (input[i] == '^')
-            cout<<" ██ ██ ";
+            cout<<"   /$$$  ";
         if (input[i] == '&')
-            cout<<"    ██    ";
+            cout<<" /$$ $$   ";
         if (input[i] == '*')
-            cout<<" ▄ ██ ▄";
+            cout<<"  /$$/$$ ";
         if (input[i] == '(')
-            cout<<" ██  ";
+            cout<<"  /$$_/";
         if (input[i] == ')')
-            cout<<"  ██ ";
+            cout<<"|_  $$ ";
         if (input[i] == '-')
-            cout<<"       ";
+            cout<<"        ";
         if (input[i] == '_')
-            cout<<"         ";
+            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ██  ";
+            cout<<"| $$_/";
         if (input[i]== ']')
-            cout<<"  ██ ";
+            cout<<"|_  $$";
         if (input[i] == '|')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == ';')
-            cout<<" ██ ";
+            cout<<"    ";
         if (input[i] == ':')
-            cout<<" ██ ";
+            cout<<"    ";
         if (input[i] == '<')
-            cout<<"  ██  ";
+            cout<<"   /$$/";
         if (input[i] == ',')
             cout<<"    ";
         if (input[i] == '>')
-            cout<<"  ██  ";
+            cout<<"|  $$  ";
         if (input[i] == '/')
-            cout<<"    ██  ";
+            cout<<"      /$$/";
         if (input[i] == '?')
-            cout<<"      ██ ";
+            cout<<" /$$  $$";
     }
     cout<<endl;
     //* Second Layer Ends
@@ -1165,125 +1165,125 @@ void asciiart_3D(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<" ███████ ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'B' || input[i] == 'b')
-            cout<<" ██████  ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'C' || input[i] == 'c')
-            cout<<" ██      ";
+            cout<<"| $$  \\__/";
         if (input[i] == 'D' || input[i] == 'd')
-            cout<<" ██   ██ ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<" █████   ";
+            cout<<"| $$_____/";
         if (input[i] == 'F' || input[i] == 'f')
-            cout<<" █████   ";
+            cout<<"| $$_____/";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<" ██   ███ ";
+            cout<<"| $$  \\__/";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<" ███████ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" ██ ";
+            cout<<"  | $$  ";
         if (input[i] == 'J' || input[i] == 'j')
-            cout<<"      ██ ";
+            cout<<"      | $$";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<" █████   ";
+            cout<<"| $$ /$$/ ";
         if (input[i] == 'L' || input[i] == 'l')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'M' || input[i] == 'm')
-            cout<<" ██ ████ ██ ";
+            cout<<"| $$$$  /$$$$";
         if (input[i] == 'N' || input[i] == 'n')
-            cout<<" ██ ██  ██ ";
+            cout<<"| $$$$| $$";
         if (input[i] == 'O' || input[i] == 'o')
-            cout<<" ██    ██ ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'P' || input[i] == 'p')
-            cout<<" ██████  ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'Q' || input[i] == 'q')
-            cout<<" ██    ██ ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<" ██████  ";
+            cout<<"| $$  \\ $$";
         if (input[i] == 'S' || input[i] == 's')
-            cout<<" ███████ ";
+            cout<<"| $$  \\__/";
         if (input[i] == 'T' || input[i] == 't')
-            cout<<"    ██    ";
+            cout<<"   | $$   ";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<" ██    ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'V' || input[i] == 'v')
-            cout<<" ██    ██ ";
+            cout<<"| $$   | $$";
         if (input[i] == 'W' || input[i] == 'w')
-            cout<<" ██  █  ██ ";
+            cout<<"| $$ /$$$| $$";
         if (input[i] == 'X' || input[i] == 'x')
-            cout<<"   ███   ";
+            cout<<"|  $$/ $$/";
         if (input[i] == 'Y' || input[i] == 'y')
-            cout<<"   ████   ";
+            cout<<" \\  $$ /$$/ ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"   ███   ";
+            cout<<"     /$$/ ";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
-            cout<<"  ██ ";
+            cout<<"|_  $$  ";
         if (input[i]== '2')
-            cout<<"  █████  ";
+            cout<<"|__/  \\ $$";
         if (input[i]== '3')
-            cout<<"  █████  ";
+            cout<<"|__/  \\ $$";
         if (input[i] == '4')
-            cout<<" ███████ ";
+            cout<<"| $$  | $$";
         if (input[i] == '5')
-            cout<<" ███████ ";
+            cout<<"| $$      ";
         if (input[i] == '6')
-            cout<<" ███████  ";
+            cout<<"| $$  \\__/";
         if (input[i] == '7')
-            cout<<"     ██  ";
+            cout<<"     /$$/ ";
         if(input[i] == '.')
             cout<<"    ";
         if (input[i] == '8')
-            cout<<"  █████  ";
+            cout<<"| $$  \\ $$";
         if (input[i] == '9')
-            cout<<"  ██████ ";
+            cout<<"| $$  \\ $$";
         if (input[i] == '0')
-            cout<<" ██ ██ ██ ";
+            cout<<"| $$$$\\ $$";
         if (input[i] == '!')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == '@')
-            cout<<" ██ ██ ██ ";
+            cout<<"  /$$_/  \\_  $$ ";
         if (input[i] == '#')
-            cout<<"  ██  ██  ";
+            cout<<" /$$$$$$$$$$";
         if (input[i] == '$')
-            cout<<" ███████ ";
+            cout<<" /$$__  $$";
         if (input[i] == '%')
-            cout<<"   ██   ";
+            cout<<"     /$$/ ";
         if (input[i] == '^')
-            cout<<"       ";
+            cout<<"  /$$ $$ ";
         if (input[i] == '&')
-            cout<<" ████████ ";
+            cout<<"|  $$$    ";
         if (input[i] == '*')
-            cout<<"  ████ ";
+            cout<<" |  $$$/ ";
         if (input[i] == '(')
-            cout<<" ██  ";
+            cout<<" /$$/  ";
         if (input[i] == ')')
-            cout<<"  ██ ";
+            cout<<"  \\  $$";
         if (input[i] == '-')
-            cout<<" █████ ";
+            cout<<"        ";
         if (input[i] == '_')
-            cout<<"         ";
+            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ██  ";
+            cout<<"| $$  ";
         if (input[i]== ']')
-            cout<<"  ██ ";
+            cout<<"  | $$";
         if (input[i] == '|')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == ';')
-            cout<<"    ";
+            cout<<" /$$";
         if (input[i] == ':')
-            cout<<"    ";
+            cout<<" /$$";
         if (input[i] == '<')
-            cout<<" ██   ";
+            cout<<"  /$$/ ";
         if (input[i] == ',')
             cout<<"    ";
         if (input[i] == '>')
-            cout<<"   ██ ";
+            cout<<" \\  $$ ";
         if (input[i] == '/')
-            cout<<"   ██   ";
+            cout<<"     /$$/ ";
         if (input[i] == '?')
-            cout<<"   ▄███  ";
+            cout<<"|__/\\ $$";
     }
     cout << endl;
     //* Third Layer Ends
@@ -1292,125 +1292,125 @@ void asciiart_3D(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<" ██   ██ ";
+            cout<<"| $$$$$$$$";
         if (input[i] == 'B' || input[i] == 'b')
-            cout<<" ██   ██ ";
+            cout<<"| $$$$$$$ ";
         if (input[i] == 'C' || input[i] == 'c')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'D' || input[i] == 'd')
-            cout<<" ██   ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'F' || input[i] == 'f')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<" ██    ██ ";
+            cout<<"| $$ /$$$$";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<" ██   ██ ";
+            cout<<"| $$$$$$$$";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" ██ ";
+            cout<<"  | $$  ";
         if (input[i] == 'J' || input[i] == 'j')
-            cout<<" ██   ██ ";
+            cout<<"      | $$";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<" ██  ██  ";
+            cout<<"| $$$$$/  ";
         if (input[i] == 'L' || input[i] == 'l')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'M' || input[i] == 'm')
-            cout<<" ██  ██  ██ ";
+            cout<<"| $$ $$/$$ $$";
         if (input[i] == 'N' || input[i] == 'n')
-            cout<<" ██  ██ ██ ";
+            cout<<"| $$ $$ $$";
         if (input[i] == 'O' || input[i] == 'o')
-            cout<<" ██    ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'P' || input[i] == 'p')
-            cout<<" ██      ";
+            cout<<"| $$$$$$$/";
         if (input[i] == 'Q' || input[i] == 'q')
-            cout<<" ██ ▄▄ ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<" ██   ██ ";
+            cout<<"| $$$$$$$/";
         if (input[i] == 'S' || input[i] == 's')
-            cout<<"      ██ ";
+            cout<<"|  $$$$$$ ";
         if (input[i] == 'T' || input[i] == 't')
-            cout<<"    ██    ";
+            cout<<"   | $$   ";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<" ██    ██ ";
+            cout<<"| $$  | $$";
         if (input[i] == 'V' || input[i] == 'v')
-            cout<<"  ██  ██  ";
+            cout<<"|  $$ / $$/";
         if (input[i] == 'W' || input[i] == 'w')
-            cout<<" ██ ███ ██ ";
+            cout<<"| $$/$$ $$ $$";
         if (input[i] == 'X' || input[i] == 'x')
-            cout<<"  ██ ██  ";
+            cout<<" \\  $$$$/ ";
         if (input[i] == 'Y' || input[i] == 'y')
-            cout<<"    ██    ";
+            cout<<"  \\  $$$$/  ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"  ███    ";
+            cout<<"    /$$/  ";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
-            cout<<"  ██ ";
+            cout<<"  | $$  ";
         if (input[i]== '2')
-            cout<<" ██      ";
+            cout<<"  /$$$$$$/";
         if (input[i]== '3')
-            cout<<"      ██ ";
+            cout<<"   /$$$$$/";
         if (input[i] == '4')
-            cout<<"      ██ ";
+            cout<<"| $$$$$$$$";
         if (input[i] == '5')
-            cout<<"      ██ ";
+            cout<<"| $$$$$$$ ";
         if (input[i] == '6')
-            cout<<" ██    ██ ";
+            cout<<"| $$$$$$$ ";
         if (input[i] == '7')
-            cout<<"    ██   ";
+            cout<<"    /$$/  ";
         if(input[i] == '.')
             cout<<"    ";
         if (input[i] == '8')
-            cout<<" ██   ██ ";
+            cout<<"|  $$$$$$/";
         if (input[i] == '9')
-            cout<<"      ██ ";
+            cout<<"|  $$$$$$$";
         if (input[i] == '0')
-            cout<<" ████  ██ ";
+            cout<<"| $$ $$ $$";
         if (input[i] == '!')
-            cout<<"    ";
+            cout<<"| $$";
         if (input[i] == '@')
-            cout<<" ██ ██ ██ ";
+            cout<<" /$$/ /$$$$$  $$";
         if (input[i] == '#')
-            cout<<" ████████ ";
+            cout<<"|   $$  $$_/";
         if (input[i] == '$')
-            cout<<"      ██ ";
+            cout<<"| $$  \\__/";
         if (input[i] == '%')
-            cout<<"  ██    ";
+            cout<<"    /$$/  ";
         if (input[i] == '^')
-            cout<<"       ";
+            cout<<" /$$\\  $$";
         if (input[i] == '&')
-            cout<<" ██  ██   ";
+            cout<<" /$$ $$/$$";
         if (input[i] == '*')
-            cout<<" ▀ ██ ▀";
+            cout<<" /$$$$$$$";
         if (input[i] == '(')
-            cout<<" ██  ";
+            cout<<"| $$   ";
         if (input[i] == ')')
-            cout<<"  ██ ";
+            cout<<"   | $$";
         if (input[i] == '-')
-            cout<<"       ";
+            cout<<" /$$$$$$";
         if (input[i] == '_')
-            cout<<"         ";
+            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ██  ";
+            cout<<"| $$  ";
         if (input[i]== ']')
-            cout<<"  ██ ";
+            cout<<"  | $$";
         if (input[i] == '|')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == ';')
-            cout<<" ▄█ ";
+            cout<<"|__/";
         if (input[i] == ':')
-            cout<<" ██ ";
+            cout<<"|__/";
         if (input[i] == '<')
-            cout<<"  ██  ";
+            cout<<" /$$/  ";
         if (input[i] == ',')
             cout<<"    ";
         if (input[i] == '>')
-            cout<<"  ██  ";
+            cout<<"  \\  $$";
         if (input[i] == '/')
-            cout<<"  ██    ";
+            cout<<"    /$$/  ";
         if (input[i] == '?')
-            cout<<"   ▀▀    ";
+            cout<<"    /$$/";
     }
     cout << endl;
     //* Fourth Layer Ends
@@ -1419,125 +1419,125 @@ void asciiart_3D(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'B' || input[i] == 'b')
-            cout<<" ██████  ";
+            cout<<"| $$__  $$";
         if (input[i] == 'C' || input[i] == 'c')
-            cout<<"  ██████ ";
+            cout<<"| $$      ";
         if (input[i] == 'D' || input[i] == 'd')
-            cout<<" ██████  ";
+            cout<<"| $$  | $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<" ███████ ";
+            cout<<"| $$$$$   ";
         if (input[i] == 'F' || input[i] == 'f')
-            cout<<" ██      ";
+            cout<<"| $$      ";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<"  ██████  ";
+            cout<<"| $$|_  $$";
         if (input[i] == 'H' || input[i] == 'h')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'I' || input[i] == 'i')
-            cout<<" ██ ";
+            cout<<"  | $$  ";
         if (input[i] == 'J' || input[i] == 'j')
-            cout<<"  █████  ";
+            cout<<" /$$  | $$";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<" ██   ██ ";
+            cout<<"| $$  $$  ";
         if (input[i] == 'L' || input[i] == 'l')
-            cout<<" ███████ "; 
+            cout<<"| $$      "; 
         if (input[i] == 'M' || input[i] == 'm')
-            cout<<" ██      ██ ";
+            cout<<"| $$  $$$| $$";
         if (input[i] == 'N' || input[i] == 'n')
-            cout<<" ██   ████ ";
+            cout<<"| $$  $$$$";
         if (input[i] == 'O' || input[i] == 'o')
-            cout<<"  ██████  ";
+            cout<<"| $$  | $$";
         if (input[i] == 'P' || input[i] == 'p')
-            cout<<" ██      ";
+            cout<<"| $$____/ ";
         if (input[i] == 'Q' || input[i] == 'q')
-            cout<<"  ██████  ";
+            cout<<"| $$  | $$";
         if (input[i] == 'R' || input[i] == 'r')
-            cout<<" ██   ██ ";
+            cout<<"| $$__  $$";
         if (input[i] == 'S' || input[i] == 's')
-            cout<<" ███████ ";
+            cout<<" \\____  $$";
         if (input[i] == 'T' || input[i] == 't')
-            cout<<"    ██    ";
+            cout<<"   | $$   ";
         if (input[i] == 'U' || input[i] == 'u')
-            cout<<"  ██████  ";
+            cout<<"| $$  | $$";
         if (input[i] == 'V' || input[i] == 'v')
-            cout<<"   ████   ";
+            cout<<" \\  $$ $$/ ";
         if (input[i] == 'W' || input[i] == 'w')
-            cout<<"  ███ ███  ";
+            cout<<"| $$$$_  $$$$";
         if (input[i] == 'X' || input[i] == 'x')
-            cout<<" ██   ██ ";
+            cout<<"  >$$  $$ ";
         if (input[i] == 'Y' || input[i] == 'y')
-            cout<<"    ██    ";
+            cout<<"   \\  $$/   ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<" ███████ ";
+            cout<<"   /$$/   ";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
-            cout<<"  ██ ";
+            cout<<"  | $$  ";
         if (input[i]== '2')
-            cout<<" ███████ ";
+            cout<<" /$$____/ ";
         if (input[i]== '3')
-            cout<<" ██████  ";
+            cout<<"  |___  $$";
         if (input[i] == '4')
-            cout<<"      ██ ";
+            cout<<"|_____  $$";
         if (input[i] == '5')
-            cout<<" ███████ ";
+            cout<<"|_____  $$";
         if (input[i] == '6')
-            cout<<"  ██████  ";
+            cout<<"| $$__  $$";
         if (input[i] == '7')
-            cout<<"    ██   ";
+            cout<<"   /$$/   ";
         if(input[i] == '.')
             cout<<" ██ ";
         if (input[i] == '8')
-            cout<<"  █████  ";
+            cout<<" >$$__  $$";
         if (input[i] == '9')
-            cout<<"  █████  ";
+            cout<<" \\____  $$";
         if (input[i] == '0')
-            cout<<"  ██████  ";
+            cout<<"| $$\\ $$$$";
         if (input[i] == '!')
-            cout<<" ██ ";
+            cout<<"|__/";
         if (input[i] == '@')
-            cout<<"  █ ████  ";
+            cout<<"| $$ /$$  $$| $$";
         if (input[i] == '#')
-            cout<<"  ██  ██  ";
+            cout<<" /$$$$$$$$$$";
         if (input[i] == '$')
-            cout<<" ███████ ";
+            cout<<"|  $$$$$$ ";
         if (input[i] == '%')
-            cout<<" ██  ██ ";
+            cout<<"   /$$/   ";
         if (input[i] == '^')
-            cout<<"       ";
+            cout<<"|__/ \\__/";
         if (input[i] == '&')
-            cout<<" ██████   ";
+            cout<<"| $$  $$_/";
         if (input[i] == '*')
-            cout<<"       ";
+            cout<<"|__ $$$_/";
         if (input[i] == '(')
-            cout<<"  ██ ";
+            cout<<"| $$   ";
         if (input[i] == ')')
-            cout<<" ██  ";
+            cout<<"   | $$";
         if (input[i] == '-')
-            cout<<"       ";
+            cout<<"|______/";
         if (input[i] == '_')
-            cout<<" ███████ ";
+            cout<<"        ";
         if (input[i] == '[')
-            cout<<" ███ ";
+            cout<<"| $$  ";
         if (input[i]== ']')
-            cout<<" ███ ";
+            cout<<"  | $$";
         if (input[i] == '|')
-            cout<<" ██ ";
+            cout<<"| $$";
         if (input[i] == ';')
-            cout<<" ▀  ";
+            cout<<"    ";
         if (input[i] == ':')
             cout<<"    ";
         if (input[i] == '<')
-            cout<<"   ██ ";
+            cout<<"|  $$  ";
         if (input[i] == ',')
-            cout<<" ▄█ ";
+            cout<<"    ";
         if (input[i] == '>')
-            cout<<" ██   ";
+            cout<<"   /$$/";
         if (input[i] == '/')
-            cout<<" ██     ";
+            cout<<"   /$$/   ";
         if (input[i] == '?')
-            cout<<"   ██    ";
+            cout<<"   /$$/ ";
     }
     cout << endl;
     //* Fifth Layer Ends
