@@ -911,7 +911,7 @@ void asciiart_3D(){
     for (int i=0; i < input.size(); i++)
     {
         if (input[i] == 'A' || input[i]== 'a')
-            cout<<"  █████  ";
+            cout<<"  /$$$$$$ ";
         if (input[i] == 'B' || input[i] == 'b')
             cout<<" ██████  ";
         if (input[i] == 'C' || input[i] == 'c')
