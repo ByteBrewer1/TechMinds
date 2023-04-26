@@ -1602,41 +1602,41 @@ void asciiart_3D(){
         if (input[i] == '1')
             cout<<"  | $$  ";
         if (input[i]== '2')
-            cout<<" /$$____/ ";
+            cout<<"| $$      ";
         if (input[i]== '3')
-            cout<<"  |___  $$";
+            cout<<" /$$  \\ $$";
         if (input[i] == '4')
-            cout<<"|_____  $$";
+            cout<<"      | $$";
         if (input[i] == '5')
-            cout<<"|_____  $$";
+            cout<<" /$$  \\ $$";
         if (input[i] == '6')
-            cout<<"| $$__  $$";
+            cout<<"| $$  \\ $$";
         if (input[i] == '7')
-            cout<<"   /$$/   ";
+            cout<<"  /$$/    ";
         if(input[i] == '.')
-            cout<<" ██ ";
+            cout<<"    ";
         if (input[i] == '8')
-            cout<<" >$$__  $$";
+            cout<<"| $$  \\ $$";
         if (input[i] == '9')
-            cout<<" \\____  $$";
+            cout<<" /$$  \\ $$";
         if (input[i] == '0')
-            cout<<"| $$\\ $$$$";
+            cout<<"| $$ \\ $$$";
         if (input[i] == '!')
-            cout<<"|__/";
-        if (input[i] == '@')
-            cout<<"| $$ /$$  $$| $$";
+            cout<<"    ";
+        // if (input[i] == '@')
+        //     cout<<"| $$ /$$  $$| $$";
         if (input[i] == '#')
-            cout<<" /$$$$$$$$$$";
+            cout<<"|_  $$  $$_/";
         if (input[i] == '$')
-            cout<<"|  $$$$$$ ";
+            cout<<" \\____  $$";
         if (input[i] == '%')
-            cout<<"   /$$/   ";
+            cout<<"  /$$/    ";
         if (input[i] == '^')
-            cout<<"|__/ \\__/";
+            cout<<"         ";
         if (input[i] == '&')
-            cout<<"| $$  $$_/";
+            cout<<"| $$\\  $$ ";
         if (input[i] == '*')
-            cout<<"|__ $$$_/";
+            cout<<" |__/__/ ";
         if (input[i] == '(')
             cout<<"| $$   ";
         if (input[i] == ')')
@@ -1723,47 +1723,47 @@ void asciiart_3D(){
         if (input[i] == 'Y' || input[i] == 'y')
             cout<<"    | $$    ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"   /$$/   ";
+            cout<<" /$$$$$$$$";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
             cout<<"  | $$  ";
         if (input[i]== '2')
-            cout<<" /$$____/ ";
+            cout<<"| $$$$$$$$";
         if (input[i]== '3')
-            cout<<"  |___  $$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '4')
-            cout<<"|_____  $$";
+            cout<<"      | $$";
         if (input[i] == '5')
-            cout<<"|_____  $$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '6')
-            cout<<"| $$__  $$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '7')
-            cout<<"   /$$/   ";
+            cout<<" /$$/     ";
         if(input[i] == '.')
-            cout<<" ██ ";
+            cout<<" /$$";
         if (input[i] == '8')
-            cout<<" >$$__  $$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '9')
-            cout<<" \\____  $$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '0')
-            cout<<"| $$\\ $$$$";
+            cout<<"|  $$$$$$/";
         if (input[i] == '!')
-            cout<<"|__/";
-        if (input[i] == '@')
-            cout<<"| $$ /$$  $$| $$";
+            cout<<" /$$";
+        // if (input[i] == '@')
+        //     cout<<"| $$ /$$  $$| $$";
         if (input[i] == '#')
-            cout<<" /$$$$$$$$$$";
+            cout<<"  | $$| $$  ";
         if (input[i] == '$')
-            cout<<"|  $$$$$$ ";
+            cout<<" /$$  \\ $$";
         if (input[i] == '%')
-            cout<<"   /$$/   ";
+            cout<<" /$$/  /$$";
         if (input[i] == '^')
-            cout<<"|__/ \\__/";
+            cout<<"         ";
         if (input[i] == '&')
-            cout<<"| $$  $$_/";
+            cout<<"|  $$$$/$$";
         if (input[i] == '*')
-            cout<<"|__ $$$_/";
+            cout<<"         ";
         if (input[i] == '(')
             cout<<"| $$   ";
         if (input[i] == ')')
@@ -1850,47 +1850,47 @@ void asciiart_3D(){
         if (input[i] == 'Y' || input[i] == 'y')
             cout<<"    |__/    ";
         if (input[i] == 'Z' || input[i]== 'z')
-            cout<<"   /$$/   ";
+            cout<<"|________/";
         if (input[i] == ' ')
             cout<<"      ";
         if (input[i] == '1')
-            cout<<"  | $$  ";
+            cout<<"|______/";
         if (input[i]== '2')
-            cout<<" /$$____/ ";
+            cout<<"|________/";
         if (input[i]== '3')
-            cout<<"  |___  $$";
+            cout<<" \\______/ ";
         if (input[i] == '4')
-            cout<<"|_____  $$";
+            cout<<"      |__/";
         if (input[i] == '5')
-            cout<<"|_____  $$";
+            cout<<" \\______/ ";
         if (input[i] == '6')
-            cout<<"| $$__  $$";
+            cout<<" \\______/ ";
         if (input[i] == '7')
-            cout<<"   /$$/   ";
+            cout<<"|__/      ";
         if(input[i] == '.')
-            cout<<" ██ ";
+            cout<<"|__/";
         if (input[i] == '8')
-            cout<<" >$$__  $$";
+            cout<<" \\______/ ";
         if (input[i] == '9')
-            cout<<" \\____  $$";
+            cout<<" \\______/ ";
         if (input[i] == '0')
-            cout<<"| $$\\ $$$$";
+            cout<<" \\______/ ";
         if (input[i] == '!')
             cout<<"|__/";
-        if (input[i] == '@')
-            cout<<"| $$ /$$  $$| $$";
+        // if (input[i] == '@')
+        //     cout<<"| $$ /$$  $$| $$";
         if (input[i] == '#')
-            cout<<" /$$$$$$$$$$";
+            cout<<"  |__/|__/  ";
         if (input[i] == '$')
-            cout<<"|  $$$$$$ ";
+            cout<<"|  $$$$$$/"; //! 2 More Lines are Required
         if (input[i] == '%')
-            cout<<"   /$$/   ";
+            cout<<"|__/  |__/";
         if (input[i] == '^')
-            cout<<"|__/ \\__/";
+            cout<<"         ";
         if (input[i] == '&')
-            cout<<"| $$  $$_/";
+            cout<<" \\____/\\_/";
         if (input[i] == '*')
-            cout<<"|__ $$$_/";
+            cout<<"         ";
         if (input[i] == '(')
             cout<<"| $$   ";
         if (input[i] == ')')
