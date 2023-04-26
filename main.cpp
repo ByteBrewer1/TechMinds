@@ -923,7 +923,7 @@ void asciiart_3D(){
         if (input[i] == 'F' || input[i] == 'f')
             cout<<" /$$$$$$$$";
         if (input[i] == 'G' || input[i] == 'g')
-            cout<<"  ██████  ";
+            cout<<" /$$$$$$ ";
         if (input[i] == 'H' || input[i] == 'h')
             cout<<" ██   ██ ";
         if (input[i] == 'I' || input[i] == 'i')
