@@ -1046,7 +1046,7 @@ void asciiart_3D(){
         if (input[i] == 'D' || input[i] == 'd')
             cout<<"| $$__  $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<" /$$$$$$$$";
+            cout<<"| $$_____/";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<" /$$$$$$$$";
         if (input[i] == 'G' || input[i] == 'g')
@@ -1173,7 +1173,7 @@ void asciiart_3D(){
         if (input[i] == 'D' || input[i] == 'd')
             cout<<"| $$  \\ $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<"| $$_____/";
+            cout<<"| $$      ";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<"| $$_____/";
         if (input[i] == 'G' || input[i] == 'g')
@@ -1300,7 +1300,7 @@ void asciiart_3D(){
         if (input[i] == 'D' || input[i] == 'd')
             cout<<"| $$  | $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<"| $$      ";
+            cout<<"| $$$$$   ";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<"| $$      ";
         if (input[i] == 'G' || input[i] == 'g')
@@ -1427,7 +1427,7 @@ void asciiart_3D(){
         if (input[i] == 'D' || input[i] == 'd')
             cout<<"| $$  | $$";
         if (input[i] == 'E' || input[i] == 'e')
-            cout<<"| $$$$$   ";
+            cout<<"| $$__/   ";
         if (input[i] == 'F' || input[i] == 'f')
             cout<<"| $$      ";
         if (input[i] == 'G' || input[i] == 'g')
@@ -1960,7 +1960,7 @@ void asciiart_bold(){
         if (input[i] == 'J' || input[i] == 'j')
             cout<<"      ██ ";
         if (input[i] == 'K' || input[i] == 'k')
-            cout<<"  ██   ██ ";
+            cout<<" ██   ██ ";
         if (input[i] == 'L' || input[i] == 'l')
             cout<<" ██      ";
         if (input[i] == 'M' || input[i] == 'm')
@@ -2465,7 +2465,7 @@ void asciiart_bold(){
             cout<<" ██   ██ ";
         if (input[i] == 'I' || input[i] == 'i')
             cout<<" ██ ";
-        if (input[i] == 'J' || input[i] == 'j')
+        if (input[i] == 'J' || input[i] == 'j') 
             cout<<"  █████  ";
         if (input[i] == 'K' || input[i] == 'k')
             cout<<" ██   ██ ";
@@ -2588,7 +2588,7 @@ void asciiart_bold(){
 int main()
 {
     cout << "\n\n";
-        string text = "ASCII Art Generator";
+    string text = "ASCII Art Generator";
     int width = 150; // replace with the width of your terminal
     int spaces = (width - text.length()) / 2;
     
@@ -2597,7 +2597,7 @@ int main()
     }
         
     cout << text << endl;
-
+    while(1){
     cout << "Please Select any one of type: " << endl;
     cout << "1. ASCII Art :: Normal" << endl;
     cout << "2. ASCII Art :: Bold" << endl;
@@ -2620,7 +2620,7 @@ int main()
         break;
     }
         cout << endl;
-
+    }
     return 0;
 }
 
