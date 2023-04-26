@@ -1638,11 +1638,11 @@ void asciiart_3D(){
         if (input[i] == '*')
             cout<<" |__/__/ ";
         if (input[i] == '(')
-            cout<<"| $$   ";
+            cout<<"|  $$  ";
         if (input[i] == ')')
-            cout<<"   | $$";
+            cout<<"   /$$/";
         if (input[i] == '-')
-            cout<<"|______/";
+            cout<<"        ";
         if (input[i] == '_')
             cout<<"        ";
         if (input[i] == '[')
@@ -1652,19 +1652,19 @@ void asciiart_3D(){
         if (input[i] == '|')
             cout<<"| $$";
         if (input[i] == ';')
-            cout<<"    ";
+            cout<<" /$$";
         if (input[i] == ':')
             cout<<"    ";
         if (input[i] == '<')
-            cout<<"|  $$  ";
+            cout<<" \\  $$ ";
         if (input[i] == ',')
-            cout<<"    ";
+            cout<<" /$$";
         if (input[i] == '>')
-            cout<<"   /$$/";
+            cout<<"  /$$/ ";
         if (input[i] == '/')
-            cout<<"   /$$/   ";
+            cout<<"  /$$/    ";
         if (input[i] == '?')
-            cout<<"   /$$/ ";
+            cout<<"  |__/  ";
     }
     cout << endl;
     //* Sixth Layer Ends
@@ -1765,33 +1765,33 @@ void asciiart_3D(){
         if (input[i] == '*')
             cout<<"         ";
         if (input[i] == '(')
-            cout<<"| $$   ";
+            cout<<"  \\  $$$";
         if (input[i] == ')')
-            cout<<"   | $$";
+            cout<<" /$$$/ ";
         if (input[i] == '-')
-            cout<<"|______/";
-        if (input[i] == '_')
             cout<<"        ";
+        if (input[i] == '_')
+            cout<<" /$$$$$$";
         if (input[i] == '[')
-            cout<<"| $$  ";
+            cout<<"| $$$$";
         if (input[i]== ']')
-            cout<<"  | $$";
+            cout<<" /$$$$";
         if (input[i] == '|')
             cout<<"| $$";
         if (input[i] == ';')
-            cout<<"    ";
+            cout<<"| $/";
         if (input[i] == ':')
-            cout<<"    ";
+            cout<<" /$$";
         if (input[i] == '<')
-            cout<<"|  $$  ";
+            cout<<"  \\  $$";
         if (input[i] == ',')
-            cout<<"    ";
+            cout<<"| $/";
         if (input[i] == '>')
-            cout<<"   /$$/";
+            cout<<" /$$/  ";
         if (input[i] == '/')
-            cout<<"   /$$/   ";
+            cout<<" /$$/     ";
         if (input[i] == '?')
-            cout<<"   /$$/ ";
+            cout<<"   /$$  ";
     }
     cout << endl;
     //* Seventh Layer Ends
@@ -1892,36 +1892,37 @@ void asciiart_3D(){
         if (input[i] == '*')
             cout<<"         ";
         if (input[i] == '(')
-            cout<<"| $$   ";
+            cout<<"  \\___/";
         if (input[i] == ')')
-            cout<<"   | $$";
+            cout<<"|___/  ";
         if (input[i] == '-')
-            cout<<"|______/";
-        if (input[i] == '_')
             cout<<"        ";
+        if (input[i] == '_')
+            cout<<"|______/";
         if (input[i] == '[')
-            cout<<"| $$  ";
+            cout<<"|____/";
         if (input[i]== ']')
-            cout<<"  | $$";
+            cout<<"|____/";
         if (input[i] == '|')
-            cout<<"| $$";
+            cout<<"|__/";
         if (input[i] == ';')
-            cout<<"    ";
+            cout<<"|_/ ";
         if (input[i] == ':')
-            cout<<"    ";
+            cout<<"|__/";
         if (input[i] == '<')
-            cout<<"|  $$  ";
+            cout<<"   \\__/";
         if (input[i] == ',')
-            cout<<"    ";
+            cout<<"|_/ ";
         if (input[i] == '>')
-            cout<<"   /$$/";
+            cout<<"|__/   ";
         if (input[i] == '/')
-            cout<<"   /$$/   ";
+            cout<<"|__/      ";
         if (input[i] == '?')
-            cout<<"   /$$/ ";
+            cout<<"  |__/  ";
     }
     cout << endl;
     //* Eight Layer Ends
+    
 }
 
 void asciiart_bold(){
