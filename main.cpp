@@ -1795,7 +1795,6 @@ void asciiart_3D(){
     }
     cout << endl;
     //* Seventh Layer Ends
-
     //! Eight Layer Starts
     for (int i=0; i < input.size(); i++)
     {
@@ -1922,7 +1921,13 @@ void asciiart_3D(){
     }
     cout << endl;
     //* Eight Layer Ends
-    
+    //* Nine Layer Starts
+    for (int i = 0; i < input.size(); i++){
+         if (input[i] == 'Q' || input[i] == 'q')
+            cout<<"      \\__/"; 
+    }
+    //! Nine Layer Ends
+    cout << endl;
 }
 
 void asciiart_bold(){
@@ -2593,8 +2598,12 @@ int main()
         
     cout << text << endl;
 
+    cout << "Please Select any one of type: " << endl;
+    cout << "1. ASCII Art :: Normal" << endl;
+    cout << "2. ASCII Art :: Bold" << endl;
+    cout << "3. ASCII Art :: 3D" << endl;
     int type_text;
-    cout << "Choose Type(Normal / Bold): ";
+    cout << "Choose Type(Normal / Bold / 3D): ";
     cin >> type_text;
     switch (type_text)
     {
@@ -2604,6 +2613,8 @@ int main()
     case 2:
         asciiart_bold();
         break;
+    case 3:
+        asciiart_3D();
     default:
         cout << "Please Enter Correct Value....";
         break;
