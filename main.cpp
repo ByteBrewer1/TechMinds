@@ -971,7 +971,7 @@ void asciiart_3D(){
         if (input[i]== '3')
             cout<<"  /$$$$$$ ";
         if (input[i] == '4')
-            cout<<" ██   ██ ";
+            cout<<" /$$   /$$";
         if (input[i] == '5')
             cout<<" ███████ ";
         if (input[i] == '6')
