@@ -2584,42 +2584,54 @@ void asciiart_bold(){
 }
 // AsciiArt Bold Function Ends
 
-//! Main Program Starts
-int main()
-{
+int main() {
     cout << "\n\n";
     string text = "ASCII Art Generator";
     int width = 150; // replace with the width of your terminal
     int spaces = (width - text.length()) / 2;
-    
+
     for (int i = 0; i < spaces; i++) {
         cout << " ";
     }
-        
+
     cout << text << endl;
-    while(1){
-    cout << "Please Select any one of type: " << endl;
-    cout << "1. ASCII Art :: Normal" << endl;
-    cout << "2. ASCII Art :: Bold" << endl;
-    cout << "3. ASCII Art :: 3D" << endl;
-    int type_text;
-    cout << "Choose Type(Normal / Bold / 3D): ";
-    cin >> type_text;
-    switch (type_text)
-    {
-    case 1:
-        asciiart_normal();
-        break;
-    case 2:
-        asciiart_bold();
-        break;
-    case 3:
-        asciiart_3D();
-    default:
-        cout << "Please Enter Correct Value....";
-        break;
-    }
+    char run_again = 'y';
+    while (run_again == 'y' || run_again == 'Y') {
+        cout << "Please Select any one of type: " << endl;
+        cout << "1. ASCII Art :: Normal" << endl;
+        cout << "2. ASCII Art :: Bold" << endl;
+        cout << "3. ASCII Art :: 3D" << endl;
+        int type_text;
+        bool valid_input = false;
+        while (!valid_input) {
+            cout << "Choose Type(Normal / Bold / 3D): ";
+            cin >> type_text;
+            if (cin.fail() || type_text < 1 || type_text > 3) {
+                cin.clear();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                cout << "Invalid input. Please enter a valid option (1, 2, or 3)." << endl;
+            }
+            else {
+                valid_input = true;
+            }
+        }
+        switch (type_text) {
+            case 1:
+                asciiart_normal();
+                break;
+            case 2:
+                asciiart_bold();
+                break;
+            case 3:
+                asciiart_3D();
+                break;
+            default:
+                cout << "Please Enter Correct Value...." << endl;
+                break;
+        }
         cout << endl;
+        cout << "Do you want to run again? (y/n): ";
+        cin >> run_again;
     }
     return 0;
 }
