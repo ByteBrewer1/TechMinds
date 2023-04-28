@@ -36,7 +36,7 @@ typedef vector<vl> vvl;
 void asciiart_normal(){
     // take string as a input
     string input;
-    cin.ignore(); // Add this line to consume the newline character
+    cin.ignore(); // Add this line to consume the newline character.
     cout<<"Enter text: ";
     getline(cin, input);
 
