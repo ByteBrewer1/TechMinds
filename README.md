@@ -23,9 +23,17 @@ The program currently only supports ASCII art in three styles (Normal, Bold, and
 ## Authors
 This program was written by _**Devanshi Dave**, **Melita Castelino**, **Rahul Mistry**_.
 
+
+
 Enrollment Number are : _**22CS018, 22CS013, 22CS042**_
 
-
+## Tools used:  🔧
+<p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VSCODE" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://github.com/" target="_blank" rel="noreferrer">  <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> &nbsp; &nbsp;
+    <a href="https://atom.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/atom_io/atom_io-icon.svg" alt="atom" width="40" height="40"/> </a> &nbsp; &nbsp;
+  
 ## Acknowledgments
 This program was inspired by the ASCII art generators available online and was created as a group project to practice C++ programming skills.
 
@@ -35,7 +43,27 @@ This program is released under the MIT License. See LICENSE.txt for more informa
 ## Contributing
 Contributions to the code are welcome! If you find a bug or want to suggest an improvement, please submit a pull request or open an issue on the project's GitHub page.
 
-## Contact
+ 
+## 📧 Connect with us:
+<p align="left">
+  
+### Rahul Mistry
+<a href = "https://www.linkedin.com/in/iusenotepadonly/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.twitter.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+### Devanshi Dave
+<a href = "https://www.linkedin.com/in/devanshi-dave-41b52325a/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/devanshiiii_5672/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+  
+### Melita Castelino
+<a href = "https://www.linkedin.com/in/melita-castelino-37684225a/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://www.instagram.com/_melita.146_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+
+</p>
+
 If you have any questions or concerns about the program, you can reach me at 22cs042@charusat.edu.in / 22cs018@charusat.edu.in / 22cs042@charusat.edu.in
 
 Thank you for using my ASCII Art Generator!
