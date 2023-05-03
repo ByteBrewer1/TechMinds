@@ -45,24 +45,13 @@ Contributions to the code are welcome! If you find a bug or want to suggest an i
 
  
 ## 📧 Connect with us:
-<p align="left">
-  
-### Rahul Mistry
-<a href = "https://www.linkedin.com/in/iusenotepadonly/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.twitter.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_rahulmistry"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 
-### Devanshi Dave
-<a href = "https://www.linkedin.com/in/devanshi-dave-41b52325a/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/devanshiiii_5672/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-  
-### Melita Castelino
-<a href = "https://www.linkedin.com/in/melita-castelino-37684225a/" target="_main"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "#"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
-<a href = "https://www.instagram.com/_melita.146_/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+| Name | LinkedIn | Twitter | Instagram |
+|------|----------|---------|-----------|
+| Rahul Mistry | <a href="https://www.linkedin.com/in/iusenotepadonly/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> | <a href="https://twitter.com/_rahulmistry" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> | <a href="https://www.instagram.com/_rahulmistry" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> |
+| Devanshi Dave | <a href="https://www.linkedin.com/in/devanshi-dave-41b52325a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> | <a href="#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> | <a href="https://www.instagram.com/devanshiiii_5672/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> |
+| Melita Castelino | <a href="https://www.linkedin.com/in/melita-castelino-37684225a/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a> | <a href="#" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a> | <a href="https://www.instagram.com/_melita.146_/" target="_blank"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a> |
 
-</p>
 
 If you have any questions or concerns about the program, you can reach me at 22cs042@charusat.edu.in / 22cs018@charusat.edu.in / 22cs042@charusat.edu.in
 
